@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\0M3GH4\\AndroidStudioProjects\\calcSeekerbar\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\0M3GH4\\AndroidStudioProjects\\calcSeekerbar\\app\\src\\main\\res\\values-night\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "57,133,168",
+                        "endColumns": "74,33,43",
+                        "endOffsets": "127,162,207"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "100,175,209",
+                        "endColumns": "74,33,43",
+                        "endOffsets": "170,204,248"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\0M3GH4\\.gradle\\caches\\transforms-2\\files-2.1\\c63d4a666c0a1ba98c2e2f24b9638d9e\\material-1.2.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,40,41,42,43,44,45,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1321,1409,1533,1635,1737,1853,1955,2069,2197,2313,2435,2571,2691,2825,2945,3057,3272,3410,3534,3664,3786,3924,4040",
+                        "endColumns": "87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,137,123,129,121,137,115,119",
+                        "endOffsets": "1404,1528,1630,1732,1848,1950,2064,2192,2308,2430,2566,2686,2820,2940,3052,3178,3405,3529,3659,3781,3919,4035,4155"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\0M3GH4\\AndroidStudioProjects\\calcSeekerbar\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "885",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "1316"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\0M3GH4\\.gradle\\caches\\transforms-2\\files-2.1\\4f9c7f78c15bb692cf0895b881aafbad\\appcompat-1.2.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,39",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "253,323,407,491,587,689,791,3183",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "318,402,486,582,684,786,880,3267"
+                    }
+                }
+            ]
+        }
+    ]
+}

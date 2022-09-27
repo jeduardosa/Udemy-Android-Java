@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_lista1"
+        android:icon="@drawable/baseline_double_arrow_white_18dp"
+        android:title="Lista 1"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_lista2"
+        android:icon="@drawable/baseline_arrow_forward_white_18dp"
+        android:title="Lista 2" />
+    <item
+        android:id="@+id/action_sair"
+        android:icon="@drawable/baseline_exit_to_app_white_18dp"
+        android:title="Sair"
+        app:showAsAction="always" />
+</menu>

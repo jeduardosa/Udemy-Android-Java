@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8519332f-bd13-4488-a0fa-70fec2e9c1f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Canivete/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Canivete/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Canivete/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Canivete/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Canivete/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Canivete/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Canivete/app/src/main/res/drawable/background_button.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Canivete/app/src/main/res/drawable/background_button_default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Canivete/app/src/main/res/drawable/background_button_selected.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Canivete/app/src/main/res/drawable/background_edittext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Canivete/app/src/main/res/drawable/background_edittext_default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Canivete/app/src/main/res/drawable/background_edittext_selected.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Canivete/app/src/main/res/values-night/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Canivete/app/src/main/res/values-pt-rBR/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Escola/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Escola/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Escola/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Escola/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Escola/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Escola/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Escola/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Escola/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginProject/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginProject/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginProject/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginProject/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetoParouImpar/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesteGPS/.idea/modules/Testegps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesteGPS/.idea/modules/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/java/learn/exercicio/videoapp/Cursos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/java/learn/exercicio/videoapp/Equipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/java/learn/exercicio/videoapp/Midia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/drawable-v24/a1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/drawable-v24/a2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/drawable-v24/a3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/drawable-v24/a4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/drawable-v24/a5.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/drawable-v24/c1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/drawable-v24/c2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/drawable-v24/c3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/drawable-v24/c4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/drawable-v24/c5.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/drawable-v24/c6.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/drawable-v24/iconapp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/drawable-v24/login.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/drawable/background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/drawable/custom_button.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/drawable/login.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/layout/activity_cursos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/layout/activity_equipe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/layout/activity_midia.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/values-night/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/values-night/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/values/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VideoApp/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/learn/exercicio/calcseekerbar/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/gorjeta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-night/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/androidTest/java/br/md/fic/gerenciadordelivros/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/learn/exercicio/calcseekerbar/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/main/java/br/md/fic/gerenciadordelivros/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/main/java/br/md/fic/gerenciadordelivros/adapter/LivroAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/main/java/br/md/fic/gerenciadordelivros/dominio/Livro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/main/java/br/md/fic/gerenciadordelivros/views/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/main/res/drawable/ic_book.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/main/res/layout/item_livro.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/app/src/test/java/br/md/fic/gerenciadordelivros/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/learn/exercicio/calcseekerbar/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GerenciadordeLivros23/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoParouImpar/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetoParouImpar/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoParouImpar/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetoParouImpar/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteGPS/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_2_API_30]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1l3x420JuNwosjyKVWfDVBU6TQ8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Gerenciadordelivros" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\0M3GH4\AndroidStudioProjects\calcSeekerbar\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="calcSeekerbar.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8519332f-bd13-4488-a0fa-70fec2e9c1f1" name="Default Changelist" comment="" />
+      <created>1606839380022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606839380022</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="403" y="278" width="716" height="487" key="#Notifications" timestamp="1606990400535">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="403" y="278" width="716" height="487" key="#Notifications/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606990400535" />
+    <state x="779" y="263" key="AndroidCreateXmlResourceDialog" timestamp="1606928631218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="779" y="263" key="AndroidCreateXmlResourceDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606928631218" />
+    <state x="873" y="217" key="FileChooserDialogImpl" timestamp="1607016948467">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="873" y="217" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607016948467" />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login Project</string>
+    <string name="nome">Complete Name</string>
+    <string name="email">E-mail</string>
+    <string name="senha">Password</string>
+    <string name="cadastro">Register</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projeto Login</string>
+    <string name="nome">Nome Completo</string>
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="cadastro">Cadastrar-se</string>
+</resources>

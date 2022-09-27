@@ -1,0 +1,5 @@
+learn/exercicio/calcseekerbar/BuildConfig.java
+ learn.exercicio.calcseekerbar.BuildConfig
+learn/exercicio/calcseekerbar/MainActivity.java
+ learn.exercicio.calcseekerbar.MainActivity
+ learn.exercicio.calcseekerbar.MainActivity$1

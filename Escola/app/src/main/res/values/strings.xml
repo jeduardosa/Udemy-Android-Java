@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">School v1.0</string>
+    <string name="strN1">Grade 1</string>
+    <string name="strN2">Grade 2</string>
+    <string name="strCalc">Calculate</string>
+    <string name="strM">Average</string>
+    <string name="strSit">Status</string>
+    <string name="strZero">0</string>
+    <string name="strAp">Approved</string>
+    <string name="strSitRc">Retake Test</string>
+    <string name="strSitRp">Disapproved</string>
+    <string name="strMsgAp">Congratulations!</string>
+    <string name="strMsgRc">Study More! It\'s still possible!</string>
+    <string name="strMsgRp">Please, try again in next year!</string>
+    <string name="msgErro">Type a number!</string>
+</resources>

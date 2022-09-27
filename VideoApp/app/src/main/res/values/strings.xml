@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">VideoApp</string>
+    <string name="strMidia">Mídia</string>
+    <string name="strEquipe">Equipe</string>
+    <string name="strCursos">Cursos</string>
+    <string name="strVoltar">Voltar</string>
+    <string name="m_dia">MÍDIA</string>
+    <string name="cursos">CURSOS</string>
+    <string name="equipe">EQUIPE</string>
+    <string name="txtdescricao">Descrição:</string>
+    <string name="minha_equipe">Minha Equipe</string>
+    <string name="designer">Designer</string>
+    <string name="programador">Programador</string>
+    <string name="analista_de_teste">Analista de Teste</string>
+    <string name="analista_de_sistema">Analista de Sistema</string>
+    <string name="administrador_de_t_i">Administrador de T.I</string>
+    <string name="string_minha_equipe" />
+    <string name="logo" />
+    <string name="voltar">voltar</string>
+    <string name="descricaoTxt"><b>Lorem ipsum</b> dolor sit amet, consectetur adipiscing elit. Praesent et nisi vel ante pellentesque dapibus fermentum eget dui.
+        <br>Aenean <u><i>condimentum</i></u>, orci ut accumsan blandit, neque libero ornare enim, eu varius felis velit id augue. Mauris euismod sapien sit amet erat lobortis, eget cursus lectus porta.</br>
+        <br>Vestibulum at est at tortor dapibus bibendum. Proin tincidunt vitae sem eu porttitor. Donec suscipit, nisi in venenatis vehicula, lectus purus finibus augue, at blandit justo dolor sed lectus.</br></string>
+    <string name="todos_os_cursos">Todos os Cursos</string>
+</resources>
